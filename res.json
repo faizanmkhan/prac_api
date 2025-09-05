@@ -1,0 +1,112 @@
+{
+  "end": 3,
+  "first_page_uri": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages.json?PageSize=50&Page=0",
+  "messages": [
+    {
+      "account_sid": "AC540bef75f236a0aff32ccb151992953e",
+      "api_version": "2010-04-01",
+      "body": "Sent from your Twilio trial account - Message sent from the terminal :)",
+      "date_created": "Thu, 31 Jul 2025 13:25:33 +0000",
+      "date_sent": "Thu, 31 Jul 2025 13:25:33 +0000",
+      "date_updated": "Thu, 31 Jul 2025 13:25:37 +0000",
+      "direction": "outbound-api",
+      "error_code": null,
+      "error_message": null,
+      "from": "+17176611365",
+      "messaging_service_sid": null,
+      "num_media": "0",
+      "num_segments": "1",
+      "price": "-0.04310",
+      "price_unit": "USD",
+      "sid": "SM1cb450e623a0071ad59ccc72b707b524",
+      "status": "delivered",
+      "subresource_uris": {
+        "feedback": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SM1cb450e623a0071ad59ccc72b707b524/Feedback.json",
+        "media": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SM1cb450e623a0071ad59ccc72b707b524/Media.json"
+      },
+      "to": "+48666920815",
+      "uri": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SM1cb450e623a0071ad59ccc72b707b524.json"
+    },
+    {
+      "account_sid": "AC540bef75f236a0aff32ccb151992953e",
+      "api_version": "2010-04-01",
+      "body": "Message sent from the terminal :)",
+      "date_created": "Thu, 31 Jul 2025 13:24:24 +0000",
+      "date_sent": "Thu, 31 Jul 2025 13:24:24 +0000",
+      "date_updated": "Thu, 31 Jul 2025 13:24:24 +0000",
+      "direction": "outbound-api",
+      "error_code": 21608,
+      "error_message": null,
+      "from": "+17176611365",
+      "messaging_service_sid": null,
+      "num_media": "0",
+      "num_segments": "1",
+      "price": "-0.00100",
+      "price_unit": "USD",
+      "sid": "SMecf8b12c48d4e50b9e86922d90e2636e",
+      "status": "failed",
+      "subresource_uris": {
+        "feedback": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SMecf8b12c48d4e50b9e86922d90e2636e/Feedback.json",
+        "media": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SMecf8b12c48d4e50b9e86922d90e2636e/Media.json"
+      },
+      "to": "+48739638886",
+      "uri": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SMecf8b12c48d4e50b9e86922d90e2636e.json"
+    },
+    {
+      "account_sid": "AC540bef75f236a0aff32ccb151992953e",
+      "api_version": "2010-04-01",
+      "body": "Sent from your Twilio trial account - Message form twilio",
+      "date_created": "Thu, 31 Jul 2025 12:37:16 +0000",
+      "date_sent": "Thu, 31 Jul 2025 12:37:16 +0000",
+      "date_updated": "Thu, 31 Jul 2025 12:37:24 +0000",
+      "direction": "outbound-api",
+      "error_code": null,
+      "error_message": null,
+      "from": "+17176611365",
+      "messaging_service_sid": null,
+      "num_media": "0",
+      "num_segments": "1",
+      "price": "-0.04310",
+      "price_unit": "USD",
+      "sid": "SM15030b8ecd30876ff4116bc77813c343",
+      "status": "delivered",
+      "subresource_uris": {
+        "feedback": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SM15030b8ecd30876ff4116bc77813c343/Feedback.json",
+        "media": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SM15030b8ecd30876ff4116bc77813c343/Media.json"
+      },
+      "to": "+48666920815",
+      "uri": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SM15030b8ecd30876ff4116bc77813c343.json"
+    },
+    {
+      "account_sid": "AC540bef75f236a0aff32ccb151992953e",
+      "api_version": "2010-04-01",
+      "body": "Sent from your Twilio trial account - Hello There",
+      "date_created": "Thu, 31 Jul 2025 12:35:32 +0000",
+      "date_sent": "Thu, 31 Jul 2025 12:35:32 +0000",
+      "date_updated": "Thu, 31 Jul 2025 12:35:34 +0000",
+      "direction": "outbound-api",
+      "error_code": null,
+      "error_message": null,
+      "from": "+17176611365",
+      "messaging_service_sid": null,
+      "num_media": "0",
+      "num_segments": "1",
+      "price": "-0.00830",
+      "price_unit": "USD",
+      "sid": "SMba7861ca9ddd225e363c4e2485616a28",
+      "status": "delivered",
+      "subresource_uris": {
+        "feedback": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SMba7861ca9ddd225e363c4e2485616a28/Feedback.json",
+        "media": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SMba7861ca9ddd225e363c4e2485616a28/Media.json"
+      },
+      "to": "+18777804236",
+      "uri": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages/SMba7861ca9ddd225e363c4e2485616a28.json"
+    }
+  ],
+  "next_page_uri": null,
+  "page": 0,
+  "page_size": 50,
+  "previous_page_uri": null,
+  "start": 0,
+  "uri": "/2010-04-01/Accounts/AC540bef75f236a0aff32ccb151992953e/Messages.json?PageSize=50&Page=0"
+}
