@@ -1,0 +1,4 @@
+INSERT INTO user VALUES 
+(2,'AHMED','456@gamil.com', '456789'),
+(3,'John','789@gamil.com', '123456'),
+(4,'Amrata','001@gamil.com', '456789');
